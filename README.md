@@ -1,4 +1,5 @@
 # Diabetes Prediction Using Support Vector Machine and Gradio
+To visit my live project, [click here](https://huggingface.co/spaces/mr-tanmay/Diabetes_Prediction_using_SVM).
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
